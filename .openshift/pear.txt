@@ -1,1 +1,3 @@
+dom
+gd
 pear.drush.org/drush
